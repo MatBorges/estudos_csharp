@@ -1,0 +1,16 @@
+C:\Mateus\estudos_csharp\bin\Debug\net5.0\estudos_csharp.exe
+C:\Mateus\estudos_csharp\bin\Debug\net5.0\estudos_csharp.deps.json
+C:\Mateus\estudos_csharp\bin\Debug\net5.0\estudos_csharp.runtimeconfig.json
+C:\Mateus\estudos_csharp\bin\Debug\net5.0\estudos_csharp.runtimeconfig.dev.json
+C:\Mateus\estudos_csharp\bin\Debug\net5.0\estudos_csharp.dll
+C:\Mateus\estudos_csharp\bin\Debug\net5.0\estudos_csharp.pdb
+C:\Mateus\estudos_csharp\obj\Debug\net5.0\estudos_csharp.csproj.AssemblyReference.cache
+C:\Mateus\estudos_csharp\obj\Debug\net5.0\estudos_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mateus\estudos_csharp\obj\Debug\net5.0\estudos_csharp.AssemblyInfoInputs.cache
+C:\Mateus\estudos_csharp\obj\Debug\net5.0\estudos_csharp.AssemblyInfo.cs
+C:\Mateus\estudos_csharp\obj\Debug\net5.0\estudos_csharp.csproj.CoreCompileInputs.cache
+C:\Mateus\estudos_csharp\obj\Debug\net5.0\estudos_csharp.dll
+C:\Mateus\estudos_csharp\obj\Debug\net5.0\refint\estudos_csharp.dll
+C:\Mateus\estudos_csharp\obj\Debug\net5.0\estudos_csharp.pdb
+C:\Mateus\estudos_csharp\obj\Debug\net5.0\estudos_csharp.genruntimeconfig.cache
+C:\Mateus\estudos_csharp\obj\Debug\net5.0\ref\estudos_csharp.dll
